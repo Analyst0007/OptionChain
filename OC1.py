@@ -8,7 +8,6 @@ Created on Sun Jul 20 21:02:34 2025
 import streamlit as st
 import requests
 import pandas as pd
-import math
 from datetime import datetime
 
 # Function to find ATM strike with minimum absolute distance
